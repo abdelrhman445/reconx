@@ -7,11 +7,11 @@ setup(
     name="reconx",
     version="1.0.0",
     author="NullSpecter",
-    author_email="nullspecter@example.com",
+    author_email="boodapro540@gmail.com",
     description="أداة Recon شاملة ومتقدمة لجمع المعلومات واكتشاف الـ Subdomains",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/nullspecter/reconx",
+    url="https://github.com/abdelrhman445/reconx",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
