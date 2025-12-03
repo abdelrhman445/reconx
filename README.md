@@ -32,7 +32,7 @@ Developed by **NullSpecter (AbdUlrahman Elsayed)** to provide a reliable and eas
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/nullspecter/reconx.git
+git clone https://github.com/abdelrhman445/reconx
 cd reconx
 pip install -r requirements.txt
 pip install -e .
