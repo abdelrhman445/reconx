@@ -160,9 +160,9 @@ MIT License – © 2024 NullSpecter
 
 **NullSpecter — AbdUlrahman Elsayed**  
 - Email: boodapro540@gmail.com  
-- GitHub: https://github.com/nullspecter  
-- YouTube: https://www.youtube.com/@gamotek175  
-- LinkedIn: https://www.linkedin.com/in/abdulrahman-elsayed-59a664313  
+- GitHub: https://github.com/abdelrhman445  
+- YouTube: https://www.youtube.com/@NullSpecterAcademy  
+- LinkedIn: https://www.linkedin.com/in/abdulrahman-elsayed-59a664313/  
 
 ## 🙏 Acknowledgments
 
