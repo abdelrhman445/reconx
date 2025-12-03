@@ -154,7 +154,7 @@ pytest tests/test_exporter.py
 
 ## 📄 License
 
-MIT License – © 2024 NullSpecter
+MIT License – © 2025 NullSpecter
 
 ## 👤 Author
 
