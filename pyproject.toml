@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "reconx"
 version = "1.0.0"
 authors = [
-    {name = "NullSpecter", email = "nullspecter@example.com"}
+    {name = "NullSpecter", email = "boodapro540@gmail.com"}
 ]
 description = "أداة Recon شاملة ومتقدمة لجمع المعلومات واكتشاف الـ Subdomains"
 readme = "README.md"
@@ -34,8 +34,8 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/nullspecter/reconx"
-"Bug Tracker" = "https://github.com/nullspecter/reconx/issues"
+"Homepage" = "https://github.com/abdelrhman445/reconx"
+"Bug Tracker" = "https://github.com/abdelrhman445/reconx/issues"
 
 [project.scripts]
 reconx = "reconx.cli:app"
